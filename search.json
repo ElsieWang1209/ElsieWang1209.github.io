@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "demosite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Yan Wang",
+    "section": "",
+    "text": "Welcome! I’m Yan Wang, a senior student with Economics major at University of Colorado Denver. This is my portfolio website.\nFeel free to explore my work and learn more about me."
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "Yan Wang",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n📧 yan.wang@ucdenver.edu\n\n💻 GitHub"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Yan Wang",
+    "section": "Skills",
+    "text": "Skills\n\nData analysis with R and Python and Stata\nMachine learning and predictive modeling\n\nSAS Certification holder"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Yan Wang",
+    "section": "Education",
+    "text": "Education\n\nCollege: China Agricultural University&University of Colorado Denver\nMajor: Economics | Minor: Math and Data Science\n\nStudy further: Columbia University\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Here are a few of my favorite hobbies:\n\n\nI enjoy playing piano in my free time. It helps me relax and express emotions. I’ve been playing for 10 years.\n\n\n\nI’m passionate about skiing. I go to the Aspen to skiing every snow season with my friends.\n\n\n\nPracticing yoga helps me stay balanced, both physically and mentally. I try to do yoga every morning to start my day fresh.\n\n\n\nMy Skiing Time"
+  },
+  {
+    "objectID": "hobbies.html#my-hobbies",
+    "href": "hobbies.html#my-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Here are a few of my favorite hobbies:\n\n\nI enjoy playing piano in my free time. It helps me relax and express emotions. I’ve been playing for 10 years.\n\n\n\nI’m passionate about skiing. I go to the Aspen to skiing every snow season with my friends.\n\n\n\nPracticing yoga helps me stay balanced, both physically and mentally. I try to do yoga every morning to start my day fresh.\n\n\n\nMy Skiing Time"
+  }
+]
