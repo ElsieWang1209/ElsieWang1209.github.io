@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yan Wang’s Profile",
+    "section": "",
+    "text": "Hi, my name is Yan Wang. I’m currently a student studying in University of Colorado Denver, majoring in Economics and minor in Mathematics and Data Science. This page gives a quick overview of who I am and what this website is about."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Yan Wang’s Profile",
+    "section": "Contact Me",
+    "text": "Contact Me\nYou can reach me at\n\nCheck out my"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Yan Wang’s Profile",
+    "section": "Skills",
+    "text": "Skills\n\nData Analysis with R, Python and STATA\nFinancial Modeling and Forecasting\n\nBilingual Communication (Mandarin and English)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yan Wang’s Profile",
+    "section": "Education",
+    "text": "Education\n\nCollege: University of Colorado Denver\nMajor: Economics\nMinor: Math and Data Science\nFurther Study for master degree: Columbia University"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Yan Wang",
+    "section": "",
+    "text": "Hi, my name is Yan Wang. I’m currently a student studying in University of Colorado Denver, majoring in Economics and minor in Mathematics and Data Science. This page gives a quick overview of who I am and what this website is about.  ## Contact Me\nYou can reach me at\n\nCheck out my\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love the excitement and freedom of skiing down snow-covered slopes. It’s a great way to stay active in winter, and I enjoy the crisp mountain air and beautiful scenery.\n\n\n\nSkiing with friends\n\n\n\n\n\nTraveling allows me to explore new cultures, meet people from around the world, and gain fresh perspectives. I especially enjoy visiting historical sites and trying local food. \n\n\n\nCooking is both a creative outlet and a way to relax. I like experimenting with new recipes and enjoy preparing meals for friends and family."
+  },
+  {
+    "objectID": "Hobbies.html#my-hobbies",
+    "href": "Hobbies.html#my-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love the excitement and freedom of skiing down snow-covered slopes. It’s a great way to stay active in winter, and I enjoy the crisp mountain air and beautiful scenery.\n\n\n\nSkiing with friends\n\n\n\n\n\nTraveling allows me to explore new cultures, meet people from around the world, and gain fresh perspectives. I especially enjoy visiting historical sites and trying local food. \n\n\n\nCooking is both a creative outlet and a way to relax. I like experimenting with new recipes and enjoy preparing meals for friends and family."
+  }
+]
